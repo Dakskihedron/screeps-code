@@ -1,0 +1,11 @@
+{
+    "main": {
+        "email": "username",
+        "password": "password",
+        "protocol": "http",
+        "hostname": "server",
+        "port": 12345,
+        "path": "/",
+        "branch": "main"
+    }
+}
